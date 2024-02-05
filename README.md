@@ -1,0 +1,2 @@
+# SpartakHRM
+Employe manage system
