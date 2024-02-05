@@ -1,0 +1,12 @@
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\bin\Debug\net6.0\SpartakHRM.UserService.DAL.deps.json
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\bin\Debug\net6.0\SpartakHRM.UserService.DAL.dll
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\bin\Debug\net6.0\SpartakHRM.UserService.DAL.pdb
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\obj\Debug\net6.0\SpartakHRM.UserService.DAL.csproj.AssemblyReference.cache
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\obj\Debug\net6.0\SpartakHRM.UserService.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\obj\Debug\net6.0\SpartakHRM.UserService.DAL.AssemblyInfoInputs.cache
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\obj\Debug\net6.0\SpartakHRM.UserService.DAL.AssemblyInfo.cs
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\obj\Debug\net6.0\SpartakHRM.UserService.DAL.csproj.CoreCompileInputs.cache
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\obj\Debug\net6.0\SpartakHRM.UserService.DAL.dll
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\obj\Debug\net6.0\refint\SpartakHRM.UserService.DAL.dll
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\obj\Debug\net6.0\SpartakHRM.UserService.DAL.pdb
+C:\ALL VUSIAL STD\userservice\SpartakHRM.UserService.DAL\obj\Debug\net6.0\ref\SpartakHRM.UserService.DAL.dll
